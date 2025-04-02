@@ -122,8 +122,8 @@ of 32 and 20 epochs and took approximately one hour to complete.
 
 **Results:**
 
-![image1](media/image1.jpg){width="6.5in" height="5.083333333333333in"}
-[image1]: https://github.com/asaini-tech/ayansaini-cropclass/blob/main/images/Picture1.jpg
+![image1](images/Picture1.jpg){width="6.5in" height="5.083333333333333in"}
+
 
 Figure 1: Confusion Matrix for the Testing Data
 
